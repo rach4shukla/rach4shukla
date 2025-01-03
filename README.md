@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that can adds upto my knowledge in backend and give me hands on experience of Industry standards.
 - 📫 How to reach me ...rachna4shukla@gmail.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I am an author, have written and published successfully 3 of my books on Political science and International relations.
+- ⚡ Fun fact: ... I am an author, have written and published successfully 3 of my books on Amazon.
 
 <!---
 rach4shukla/rach4shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
